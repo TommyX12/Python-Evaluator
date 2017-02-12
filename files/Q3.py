@@ -1,0 +1,1 @@
+def isFactor(a, b): return b % a == 0 if a <= b else a % b == 0;

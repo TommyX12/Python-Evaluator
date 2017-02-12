@@ -1,0 +1,3 @@
+Average is: 80
+---|Case|---
+Average is: 45.125
